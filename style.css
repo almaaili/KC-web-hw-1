@@ -1,0 +1,40 @@
+.name{
+    text-align: center;
+    color: rgb(155, 149, 141);
+    font-size: 50px;
+    
+}
+.img{
+    padding-left: 800px;
+    width: 300px;
+}
+.pra{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+.web{
+    text-decoration: none;
+    padding-left: 800px;
+    font-size: 50px;
+    padding-bottom: 700px;
+    color: rgb(0, 0, 0);
+}
+
+.hh{
+    padding-left: 700px;
+    color: rgb(233, 125, 125);
+}
+
+.lsist{
+    padding-left: 700px;
+    color: red;
+    font-size: 30px;
+}
+
+.back{
+    padding-left: 600px;
+    font-size: 50px;
+    
+
+}
